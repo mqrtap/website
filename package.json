@@ -1,0 +1,10 @@
+{
+  "name": "drosa-izaugsme-banka",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Droša izaugsme bankām — static one-page website",
+  "scripts": {
+    "start": "npx --yes serve . -l 3000",
+    "dev": "npx --yes serve . -l 3000"
+  }
+}
